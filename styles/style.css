@@ -24,7 +24,7 @@
 }
 
 .header__kink {
- text-decoration: underline;
+  text-decoration: underline;
   text-underline-offset: 4px;
 }
 
@@ -212,7 +212,7 @@
 
 .about {
   display: grid;
-  grid-template-columns: 334px 1fr; 
+  grid-template-columns: 334px 1fr;
   gap: 25px;
   margin: 120px 24px 180px;
 }
